@@ -28,7 +28,8 @@ The **AI Reconciliation Tool** addresses the challenges faced in modern-day fina
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 [Screenshot 1](link-to-image)
----
+---![image](https://github.com/user-attachments/assets/11834c3b-aa18-456c-a3da-534cc4fd733e)
+
 Here are some screenshots of the application:
 
 1. **Dashboard**:
